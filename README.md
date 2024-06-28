@@ -9,3 +9,7 @@ Ensure you have Matplotlib installed. If not, install it using:
 
 
 pip install matplotlib
+
+# Box plot
+![image](https://github.com/HellyModiKalpesh/matplotlib/assets/105526680/b0ac3500-b4a4-45d1-ac23-26f8e451f0ea)
+
